@@ -65,7 +65,7 @@ Mobile-friendly version
 Online shareable version
 
 👨‍💻 Author
-Created with ❤️ by Samuel
+Created with ❤️ by Motsamai Mashaba
 
 📜 License
 This project is licensed under the MIT License.
